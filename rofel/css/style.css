@@ -1,0 +1,8 @@
+*{padding:0px; margin: 0px;}
+body
+ {
+background: url("../img/gg.jpg");
+ background-size: cover; 
+ background-repeat: no-repeat;
+}
+.vid {width:1000px; height: auto; }
